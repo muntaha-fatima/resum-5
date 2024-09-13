@@ -1,0 +1,55 @@
+body {
+    font-family: Italic;
+    background-color: #4f9ca7;
+    padding: 40px;
+  }
+  
+  .container {
+    max-width: 700px;
+    margin: 0 auto;
+    padding: 70px;
+    background: #067480;
+    border-radius: 60px;
+    box-shadow: 0 0 10px rgba(167, 36, 36, 0.471);
+    text-align:corner;
+  }
+  
+  h1,h2{
+    color: rgb(75, 184, 198);
+    font-size: 3em;
+    margin-bottom: 4px;
+  }
+  
+  .btn-generate,
+  .btn-download,
+  .btn-share {
+    display: block;
+    width: 100%;
+    padding: 10px;
+    margin: 10px 0;
+    background-color: #54779f;
+    color: rgb(43, 116, 133);
+    text-align: center;
+    border: none;
+    border-radius: 0px;
+    cursor: pointer;
+  }
+  
+  .btn-share {
+    background-color: #4c75af;
+  }
+  input, textarea {
+    width: 100%;
+    padding: 7px;
+    border: 1px solid #adbfc8;
+    border-radius: 2px;
+    font-size: 16px;
+    box-sizing: border-box;
+}
+
+
+.form-section {
+    color: #000000;
+    font-size: 21px;
+    margin-bottom: 10px;
+}
